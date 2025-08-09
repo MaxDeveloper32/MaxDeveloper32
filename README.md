@@ -7,9 +7,9 @@
   <a href="https://t.me/masim_Y" target="_blank" style="margin: 0 10px;">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="mailto:farcdoo@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
-  </a>
+<a href="mailto:farcdoo@gmail.com" style="margin: 0 10px;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+</a>
 </div>
 
 <h1> Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
